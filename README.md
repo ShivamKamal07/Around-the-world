@@ -43,6 +43,18 @@ Google Fonts – Typography
 
 📦 How to Run
 
-Clone or download the repository:
-``bash``
-        git clone https://github.com/your-username/around-the-world.git
+1.Clone or download the repository:
+    
+            git clone https://github.com/your-username/around-the-world.git
+
+
+
+2.Open the folder in VS Code or any editor.
+
+2.Right-click on index.html → Open with Live Server
+(or simply double-click to open in your browser)
+
+👨‍💻 Author
+
+Shivam Kamal
+Passionate Full-Stack Developer | Exploring Web Experiences
